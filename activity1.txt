@@ -1,4 +1,4 @@
-# aclee2
+# aclee2@buffalo.edu
 
 # Fixes the issue #114 about not having enough bees by adding a function which adds a bee
 AddBees(Barnyard by)
