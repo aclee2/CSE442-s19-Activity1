@@ -3,6 +3,6 @@
 # Fixes the issue #114 about not having enough bees by adding a function which adds a bee
 AddBees(Barnyard by)
 {
-  b = by.getBees();
-  by.setBees(b + 1);
+  int b = by.getNumBees();
+  by.setNumBees(b + 1);
 }
